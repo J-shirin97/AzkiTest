@@ -1,3 +1,5 @@
+package Main.azki;
+
 import java.util.concurrent.CountDownLatch;
 
 public class Foo {
