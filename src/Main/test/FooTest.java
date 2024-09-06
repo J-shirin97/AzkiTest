@@ -1,4 +1,4 @@
-package Main.azki;
+package Main.test;
 
 
 import org.junit.jupiter.api.Assertions;
